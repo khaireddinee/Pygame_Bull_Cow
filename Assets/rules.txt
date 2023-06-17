@@ -1,0 +1,10 @@
+1)The numerical version of the game is usually played with 4 digits.
+2)the player writes a 4-digit secret number. 
+3)The digits must be all different.
+4)the players try to guess the number.
+5)If the matching digits are in their right positions, they are "bulls".
+6)If in different positions, they are "cows". 
+Example:
+Secret number: 4271
+your guess: 1234
+Answer: 1 bull and 2 cows. (The bull is "2", the cows are "4" and "1".)
